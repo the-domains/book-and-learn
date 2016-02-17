@@ -1,0 +1,28 @@
+name: 'Book&Learn'
+favicon: null
+layout_spectrum: 0.559694437077269
+typography_spectrum: 0.3409941685386002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.03269276465289295
+  lightness: 0.3357845642603934
+  saturation: 0.5279929093085229
+  rhythmicContrast: 0.9565730774775147
+purpose: []
